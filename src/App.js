@@ -65,7 +65,7 @@ const renderSquare = (i) => {
       index={i}
     />
   );
-}
+} 
 
 let status;
 if (winner.winner) {
