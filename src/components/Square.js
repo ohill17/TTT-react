@@ -9,4 +9,4 @@ function Square({className, index, eventHandler, value}){
     )
 } 
     
-export default Square;  
+export default Square;   
