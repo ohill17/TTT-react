@@ -1,5 +1,5 @@
 function Status(props){
-    return (
+    return ( 
         <div className="status">{props.status}</div>
         )
 
